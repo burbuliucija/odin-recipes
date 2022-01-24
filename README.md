@@ -1,3 +1,2 @@
 # odin_project
-tasks from the odin project
-Hello Odin!
+A Recipe website for The Odin Project lessons.
