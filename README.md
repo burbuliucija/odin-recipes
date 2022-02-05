@@ -9,10 +9,6 @@ Recipes for:
 * Cepelinai
 * Kugelis
 * Tinginys
-* Koldūnai
-* Balandėliai
 
 Goals:
 * Clear, readable HTML
-* Clean design using CSS
-* Impementation of JavaScript
